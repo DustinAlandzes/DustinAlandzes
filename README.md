@@ -2,4 +2,4 @@
 
 [![project euler profile image](https://projecteuler.net/profile/f000.png)](https://projecteuler.net/profile/f000.png)
 
-<a href="https://threejs-journey.com/certificate/view/21138"><img src="https://threejs-journey.com/certificate/view/social/share-image.png" width="381" height="200"></a>
+<a href="https://threejs-journey.com/certificate/view/21138"><img src="https://threejs-journey.com/certificate/view/social/share-image.png" width="286" height="150"></a>
