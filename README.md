@@ -1,2 +1,3 @@
 <a href="https://www.credly.com/badges/86dbff9e-c208-41ac-9acd-fcb3f5320ed8"><img src="https://github.com/user-attachments/assets/6318e8fc-fc5b-4ac3-a0dc-96d85865c871" width="200" height="200"/></a> 
+<a href="https://www.credly.com/badges/acd8e396-c679-443b-baaf-5135dc0934d8"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="200" height="200"/></a> 
 <a href="https://www.credly.com/badges/d4012af6-1c9f-4ca8-aa2a-931c2c3c8e5b"><img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="200" height="200"/></a> 
